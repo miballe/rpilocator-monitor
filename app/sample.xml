@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>rpilocator.com</title>
+		<link>https://rpilocator.com</link>
+		<description>Find Raspberry Pi Computers in Stock</description>
+		<lastBuildDate>Fri, 22 Apr 2022 17:53:10 GMT</lastBuildDate>
+		<image>
+			<url>https://rpilocator.com/favicon.png</url>
+			<title>rpilocator.com</title>
+			<link>https://rpilocator.com/</link>
+			<width>32</width>
+			<height>32</height>
+		</image>
+		<item>
+			<title>Stock Alert (UK): RPi 4 Model B - 1GB RAM is In Stock at The Pihut</title>
+			<description>Stock Alert (UK): RPi 4 Model B - 1GB RAM is In Stock at The Pihut</description>
+			<link>https://rpilocator.com?vendor=thepihut&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>thepihut</category>
+			<category>UK</category>
+			<category>PI4</category>
+			<pubDate>Fri, 22 Apr 2022 18:53:10 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (UK): RPi 4 Model B - 2GB RAM is In Stock at The Pihut</title>
+			<description>Stock Alert (UK): RPi 4 Model B - 2GB RAM is In Stock at The Pihut</description>
+			<link>https://rpilocator.com?vendor=thepihut&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>thepihut</category>
+			<category>UK</category>
+			<category>PI4</category>
+			<pubDate>Fri, 22 Apr 2022 16:53:06 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (AT): RPi 4 Model B - 2GB RAM is In Stock at Semaf</title>
+			<description>Stock Alert (AT): RPi 4 Model B - 2GB RAM is In Stock at Semaf</description>
+			<link>https://rpilocator.com?vendor=semaf&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>semaf</category>
+			<category>AT</category>
+			<category>PI4</category>
+			<pubDate>Fri, 22 Apr 2022 13:24:48 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (UK): RPi 4 Model B - 4GB RAM is In Stock at Pimoroni</title>
+			<description>Stock Alert (UK): RPi 4 Model B - 4GB RAM is In Stock at Pimoroni</description>
+			<link>https://rpilocator.com?vendor=pimoroni&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>pimoroni</category>
+			<category>UK</category>
+			<category>PI4</category>
+			<pubDate>Fri, 22 Apr 2022 11:09:59 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (UK): RPi 4 Model B - 2GB RAM is In Stock at Pimoroni</title>
+			<description>Stock Alert (UK): RPi 4 Model B - 2GB RAM is In Stock at Pimoroni</description>
+			<link>https://rpilocator.com?vendor=pimoroni&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>pimoroni</category>
+			<category>UK</category>
+			<category>PI4</category>
+			<pubDate>Fri, 22 Apr 2022 10:39:31 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (FR): Raspberry Pi Zero 2 W is In Stock at Kubii</title>
+			<description>Stock Alert (FR): Raspberry Pi Zero 2 W is In Stock at Kubii</description>
+			<link>https://rpilocator.com?vendor=kubii&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>kubii</category>
+			<category>FR</category>
+			<category>PIZERO</category>
+			<pubDate>Fri, 22 Apr 2022 10:14:03 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (UK): Raspberry Pi Zero 2 W (w/ headers) is In Stock at SB Components</title>
+			<description>Stock Alert (UK): Raspberry Pi Zero 2 W (w/ headers) is In Stock at SB Components</description>
+			<link>https://rpilocator.com?vendor=sbcomp&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>sbcomp</category>
+			<category>UK</category>
+			<category>PIZERO</category>
+			<pubDate>Fri, 22 Apr 2022 08:59:15 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (UK): RPi 4 Model B - 1GB RAM is In Stock at SB Components</title>
+			<description>Stock Alert (UK): RPi 4 Model B - 1GB RAM is In Stock at SB Components</description>
+			<link>https://rpilocator.com?vendor=sbcomp&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>sbcomp</category>
+			<category>UK</category>
+			<category>PI4</category>
+			<pubDate>Fri, 22 Apr 2022 08:25:07 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (UK): RPi 4 Model B - 8GB RAM is In Stock at SB Components</title>
+			<description>Stock Alert (UK): RPi 4 Model B - 8GB RAM is In Stock at SB Components</description>
+			<link>https://rpilocator.com?vendor=sbcomp&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>sbcomp</category>
+			<category>UK</category>
+			<category>PI4</category>
+			<pubDate>Fri, 23 Apr 2022 17:28:16 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (UK): RPi 4 Model B - 4GB RAM is In Stock at SB Components</title>
+			<description>Stock Alert (UK): RPi 4 Model B - 4GB RAM is In Stock at SB Components</description>
+			<link>https://rpilocator.com?vendor=sbcomp&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>sbcomp</category>
+			<category>UK</category>
+			<category>PI4</category>
+			<pubDate>Fri, 22 Apr 2022 08:25:05 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (UK): RPi 4 Model B - 2GB RAM is In Stock at SB Components</title>
+			<description>Stock Alert (UK): RPi 4 Model B - 2GB RAM is In Stock at SB Components</description>
+			<link>https://rpilocator.com?vendor=sbcomp&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>sbcomp</category>
+			<category>UK</category>
+			<category>PI4</category>
+			<pubDate>Fri, 22 Apr 2022 08:25:05 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (UK): Raspberry Pi Zero 2 W (w/ headers) is In Stock at SB Components</title>
+			<description>Stock Alert (UK): Raspberry Pi Zero 2 W (w/ headers) is In Stock at SB Components</description>
+			<link>https://rpilocator.com?vendor=sbcomp&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>sbcomp</category>
+			<category>UK</category>
+			<category>PIZERO</category>
+			<pubDate>Fri, 22 Apr 2022 08:25:04 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (UK): Raspberry Pi Zero 2 W (w/ headers) is In Stock at SB Components</title>
+			<description>Stock Alert (UK): Raspberry Pi Zero 2 W (w/ headers) is In Stock at SB Components</description>
+			<link>https://rpilocator.com?vendor=sbcomp&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>sbcomp</category>
+			<category>UK</category>
+			<category>PIZERO</category>
+			<pubDate>Thu, 21 Apr 2022 20:07:22 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (US): RPi 4 Model B - 2GB RAM is In Stock at Adafruit 1 units in stock.</title>
+			<description>Stock Alert (US): RPi 4 Model B - 2GB RAM is In Stock at Adafruit 1 units in stock.</description>
+			<link>https://rpilocator.com?vendor=adafruit&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>adafruit</category>
+			<category>US</category>
+			<category>PI4</category>
+			<pubDate>Thu, 21 Apr 2022 16:16:46 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (US): RPi 4 Model B - 2GB RAM is In Stock at Adafruit 1 units in stock.</title>
+			<description>Stock Alert (US): RPi 4 Model B - 2GB RAM is In Stock at Adafruit 1 units in stock.</description>
+			<link>https://rpilocator.com?vendor=adafruit&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>adafruit</category>
+			<category>US</category>
+			<category>PI4</category>
+			<pubDate>Thu, 21 Apr 2022 16:01:19 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (US): RPi 4 Model B - 2GB RAM is In Stock at Adafruit 100+ units in stock.</title>
+			<description>Stock Alert (US): RPi 4 Model B - 2GB RAM is In Stock at Adafruit 100+ units in stock.</description>
+			<link>https://rpilocator.com?vendor=adafruit&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>adafruit</category>
+			<category>US</category>
+			<category>PI4</category>
+			<pubDate>Thu, 21 Apr 2022 15:44:03 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (US): RPi CM4 - 4GB RAM, 8GB MMC, With Wifi is In Stock at Digi-Key</title>
+			<description>Stock Alert (US): RPi CM4 - 4GB RAM, 8GB MMC, With Wifi is In Stock at Digi-Key</description>
+			<link>https://rpilocator.com?vendor=digikeyus&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>digikeyus</category>
+			<category>US</category>
+			<category>CM4</category>
+			<pubDate>Thu, 21 Apr 2022 15:25:14 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (US): RPi 4 Model B - 2GB RAM is In Stock at Chicago Elec. Dist.</title>
+			<description>Stock Alert (US): RPi 4 Model B - 2GB RAM is In Stock at Chicago Elec. Dist.</description>
+			<link>https://rpilocator.com?vendor=chicagodist&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>chicagodist</category>
+			<category>US</category>
+			<category>PI4</category>
+			<pubDate>Thu, 21 Apr 2022 12:16:43 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (UK): RPi 4 Model B - 8GB RAM is In Stock at Pimoroni</title>
+			<description>Stock Alert (UK): RPi 4 Model B - 8GB RAM is In Stock at Pimoroni</description>
+			<link>https://rpilocator.com?vendor=pimoroni&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>pimoroni</category>
+			<category>UK</category>
+			<category>PI4</category>
+			<pubDate>Thu, 21 Apr 2022 10:01:02 GMT</pubDate>
+		</item>
+		<item>
+			<title>Stock Alert (AT): RPi 4 Model B - 2GB RAM is In Stock at Semaf</title>
+			<description>Stock Alert (AT): RPi 4 Model B - 2GB RAM is In Stock at Semaf</description>
+			<link>https://rpilocator.com?vendor=semaf&amp;utm_source=feed&amp;utm_medium=rss</link>
+			<category>semaf</category>
+			<category>AT</category>
+			<category>PI4</category>
+			<pubDate>Thu, 21 Apr 2022 09:54:20 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
+
+    
